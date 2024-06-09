@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Fairy tale stories",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 2,
+    "name": "Music Book",
+    "title": "Fairy tale stories",
+    "price": 30,
+    "category": "Songs",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 3,
+    "name": "Comedy Book",
+    "title": "Fairy tale stories",
+    "price": 20,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 4,
+    "name": "Shayari Book",
+    "title": "Fairy tale stories",
+    "price": 40,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 5,
+    "name": "General Knowledge Book",
+    "title": "Fairy tale stories",
+    "price": 0,
+    "category": "Knowledge",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 6,
+    "name": "Love Story Book",
+    "title": "Fairy tale stories",
+    "price": 30,
+    "category": "Time Pass",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 7,
+    "name": "Maths Formula Book",
+    "title": "Fairy tale stories",
+    "price": 20,
+    "category": "Knowledge",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 8,
+    "name": "History Book",
+    "title": "Fairy tale stories",
+    "price": 10,
+    "category": "Knowledge",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 9,
+    "name": "Science Rules Book",
+    "title": "Fairy tale stories",
+    "price": 30,
+    "category": "Knowledge",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 10,
+    "name": "Story Book",
+    "title": "Fairy tale stories",
+    "price": 50,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 11,
+    "name": "Jokes Book",
+    "title": "Fairy tale stories",
+    "price": 30,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 12,
+    "name": "Story Book",
+    "title": "Fairy tale stories",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  },
+  {
+    "id": 13,
+    "name": "Recipe Book",
+    "title": "Fairy tale stories",
+    "price": 30,
+    "category": "Food",
+    "image": "https://img.freepik.com/free-photo/literature-composition_23-2147690556.jpg?t=st=1717822438~exp=1717826038~hmac=7e1df4f112193ba64d98dcc6508d1f6f5ce609af9dbe730be570fece941700c7&w=996"
+  }
+]
