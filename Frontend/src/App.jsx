@@ -6,13 +6,15 @@ import { Route, Routes } from "react-router-dom";
 function App() {
   return (
     <>
-      {/* <Home />
+      <div classNmae="dark:bg-slate-900 dark:text-white">
+        {/* <Home />
       <Course /> */}
 
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/course" element={<Courses />} />
-      </Routes>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/course" element={<Courses />} />
+        </Routes>
+      </div>
     </>
   );
 }
